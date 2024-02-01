@@ -1,0 +1,1 @@
+Mental health ai-powered chatbox based off the Python version found here: https://andela.com/blog-posts/ai-health-innovation-building-a-mental-health-chatbot-using-fastapi-langchain-and-openai-in-python%20?utm_medium=email&utm_source=newsletter&utm_campaign=talent-global-codewars-junior-jan&utm_content=ai%20chatbot%20blog
